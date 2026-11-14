@@ -22,7 +22,7 @@
     "@astrojs/check": "^0.9.10",
     "@astrojs/sitemap": "^3.7.3",
     "@tailwindcss/vite": "^4.3.3",
-    "astro": "^5.18.2",
+    "astro": "^7.4.7",
     "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3"
   },
@@ -39,9 +39,9 @@
     "lint-staged": "^17.3.0",
     "prettier": "^3.9.6",
     "prettier-plugin-astro": "^0.14.1",
-    "sharp": "^0.35.3",
+    "sharp": "^0.35.5",
     "typescript-eslint": "^8.65.0",
-    "vitest": "^4.1.10"
+    "vitest": "^4.1.11"
   },
   "license": "UNLICENSED",
   "packageManager": "pnpm@11.18.0",
